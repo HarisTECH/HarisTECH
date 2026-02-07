@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @HarisTECH from France 😊
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning Javascript
+- 🌱 currently learning Javascript
 - 📫 How to reach me : ramassamyharis95@gmail.com
 
 <!---
